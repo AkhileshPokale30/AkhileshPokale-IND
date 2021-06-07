@@ -1,7 +1,7 @@
 # Hello
-Hey, Iam Akhilesh Pokale, Currently studying at Vellore Institute Of Technology, Bhopal.
-I am intrested in the CTF,Forinsics and Cyrptograpy.
-Currently learning the Py in depth.
+Hey! I am Akhilesh Pokale, Currently studying at Vellore Institute Of Technology, Bhopal.
+I am intrested in the CTF, Forinsics and Cyrptograpy.
+Currently learning the python in depth.
 
 # My Profile
 [Hacker Rank](https://www.hackerrank.com/akhilesh_work420)
