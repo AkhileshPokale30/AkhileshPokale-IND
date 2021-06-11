@@ -1,6 +1,6 @@
 # Hello
 Hey! I am Akhilesh Pokale, Currently studying at Vellore Institute Of Technology, Bhopal.
-I am intrested in the CTF, Forinsics and Cyrptograpy.
+I am intrested in the CTF, Forensics and Cyrptograpy.
 Currently learning the python in depth.
 
 # My Profile
