@@ -11,7 +11,7 @@ Integrated M.Tech Computer Science Specialization in Cyber Security (Pre - Final
   <img src="https://profile-counter.glitch.me/AkhileshPokale-IND/count.svg" />
 </p>
 
-Welcome to my GitHub profile! I am an enthusiastic Electronics Engineering student passionate about learning new technologies and building innovative solutions to real-world problems. Currently, I am exploring the world of Data Structures and Algorithms to enhance my programming skills.
+Welcome to my GitHub profile! I am Integrated M.Tech Computer Science Specialization in Cyber Security student passionate about learning new technologies and building innovative solutions to real-world problems. Currently, I am exploring the world of Data Structures and Algorithms to enhance my programming skills.
 
 I believe in sharing knowledge and contributing to the community. Hence, I regularly publish my projects and research works on GitHub. I am proficient in C++, Python, HTML/CSS, Solidity, Docker, Kubernetes, Microsoft Office .
 
