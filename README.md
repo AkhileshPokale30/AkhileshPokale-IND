@@ -50,7 +50,7 @@ Feel free to check out my repositories and contributions. You can also connect w
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AkhileshPokale-IND &theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=AkhileshPokale-IND&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
 <hr>
