@@ -8,7 +8,7 @@ Integrated M.Tech Computer Science Specialization in Cyber Security (Pre - Final
 
 <p align="center">
   Visitor count: <br>
-  <img src="https://profile-counter.glitch.me/HimeshKohad/count.svg" />
+  <img src="https://profile-counter.glitch.me/AkhileshPokale-IND/count.svg" />
 </p>
 
 Welcome to my GitHub profile! I am an enthusiastic Electronics Engineering student passionate about learning new technologies and building innovative solutions to real-world problems. Currently, I am exploring the world of Data Structures and Algorithms to enhance my programming skills.
